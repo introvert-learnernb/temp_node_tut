@@ -9,7 +9,9 @@
   "author": "Neev Badu",
   "license": "MIT",
   "dependencies": {
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
     "nodemon": "^3.0.1"
   }
 }
