@@ -1,0 +1,1 @@
+Result is : Hello i'm from text file..., Hello this is the second txt file..

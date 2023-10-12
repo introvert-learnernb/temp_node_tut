@@ -1,0 +1,15 @@
+{
+  "name": "node-js-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-intro.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Neev Badu",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "nodemon": "^3.0.1"
+  }
+}
